@@ -1,4 +1,5 @@
 🛒 DrizzleFit - Full Stack E-Commerce Website
+
 DrizzleFit is a modern, full-stack E-Commerce web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It offers a seamless shopping experience for customers and includes a dedicated admin panel to manage products, users, and orders efficiently.
 
 This project has been designed with a scalable architecture and clean UI/UX, leveraging the latest technologies across the frontend, backend, and admin dashboard. It is fully responsive and optimized for both desktop and mobile devices.
